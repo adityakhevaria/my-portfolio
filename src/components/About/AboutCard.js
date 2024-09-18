@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Aditya Khevaria </span>
             from <span className="purple"> UttarPradesh, India.</span>
             <br />
-            I am currently in my final year of graduation.
+            I am currently in my final year of Bachelor's degree.
             <br />
-            I am persuing B.Tech in Institute of Engineering and Technology.
+            I am persuing B.Tech from Institute of Engineering and Technology.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

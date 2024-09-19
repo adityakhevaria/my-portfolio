@@ -28,7 +28,7 @@ function Projects() {
               title="Ceasar-Cipher"
               description="Caesar Cipher is used to encode and decode the messages . We need to enter the the message in the text box and also enter a key value and then click on encrypt button. The message is encrypted to the user and can be decrypted with key"
               ghLink="https://github.com/adityakhevaria/Caecer-Cipher.git"
-              demoLink="caecer-cipher.vercel.app"
+              demoLink="caecer-cipherr.vercel.app"
             />
           </Col>
 

@@ -59,7 +59,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Todo-App"
-              description="This sleek and intuitive application helps users efficiently manage their tasks and stay organized. With features like task creation, prioritization, and due dates. The app’s clean interface and responsive design ensure a smooth experience across various devices. Its user-friendly interface makes it very unique and easy to use"
+              description="This sleek and intuitive application helps users efficiently manage their tasks and stay organized. With features like task creation, prioritization, and due dates. The app’s clean interface and responsive design ensure a smooth experience across various devices. Its user-friendly interface makes it very unique and easy to use."
               ghLink="https://github.com/adityakhevaria/To-do-App"
               demoLink="https://myown-todo-app.vercel.app"
             />
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Blog-Page"
-              description="This dynamic blog page provides insightful articles, expert opinions, and engaging content on a variety of topics. With an easy-to-navigate layout and clean design, readers can effortlessly explore posts, categories, and comments. The page ensures a visually appealing and user-friendly experience for both casual readers and dedicated followers"
+              description="This dynamic blog page provides insightful articles, expert opinions, and engaging content on a variety of topics. With an easy-to-navigate layout and clean design, readers can effortlessly explore posts, categories, and comments. The page ensures a visually appealing and user-friendly experience for dedicated followers"
               ghLink="https://github.com/adityakhevaria/Blog-page"
               demoLink="https://blog-pagee.vercel.app"
             />

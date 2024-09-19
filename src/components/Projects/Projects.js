@@ -23,10 +23,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={chatify}
+                imgPath={editor}
                 isBlog={false}
                 title="Incubation-Center-Website"
-                description="This comprehensive platform connects startups with the resources, mentorship, and funding they need to thrive. With a focus on fostering innovation, the website offers detailed information on programs, facilities, and success stories. Its user-friendly interface ensures seamless navigation for entrepreneurs, investors, and partners alike."
+                description="This comprehensive platform connects startups with the resources, mentorship, and funding they need to thrive. With a focus on fostering innovation, the website offers detailed information on programs, facilities, and success stories. "
                 ghLink="https://github.com/adityakhevaria/incubation-centre-django"
                 demoLink="https://incubation-center.vercel.app"
               />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Todo-App"
-              description="This sleek and intuitive application helps users efficiently manage their tasks and stay organized. With features like task creation, prioritization, and due dates. The app’s clean interface and responsive design ensure a smooth experience across various devices."
+              description="This sleek and intuitive application helps users efficiently manage their tasks and stay organized. With features like task creation, prioritization, and due dates. The app’s clean interface and responsive design ensure a smooth experience across various devices. Its user-friendly interface makes it very unique and easy to use"
               ghLink="https://github.com/adityakhevaria/To-do-App"
               demoLink="https://myown-todo-app.vercel.app"
             />

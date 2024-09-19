@@ -28,7 +28,7 @@ function Projects() {
                 title="Incubation-Center-Website"
                 description="This comprehensive platform connects startups with the resources, mentorship, and funding they need to thrive. With a focus on fostering innovation, the website offers detailed information on programs, facilities, and success stories. "
                 ghLink="https://github.com/adityakhevaria/incubation-centre-django"
-                demoLink="https://incubation-center.vercel.app"
+                demoLink="https://nnf.ietlucknow.ac.in/"
               />
             </Col>    
                   

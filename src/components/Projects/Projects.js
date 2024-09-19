@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={leaf}
+                imgPath={chatify}
                 isBlog={false}
                 title="Incubation-Center-Website"
                 description="This comprehensive platform connects startups with the resources, mentorship, and funding they need to thrive. With a focus on fostering innovation, the website offers detailed information on programs, facilities, and success stories. Its user-friendly interface ensures seamless navigation for entrepreneurs, investors, and partners alike."
@@ -67,7 +67,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={chatify}
               isBlog={false}
               title="Blog-Page"
               description="This dynamic blog page provides insightful articles, expert opinions, and engaging content on a variety of topics. With an easy-to-navigate layout and clean design, readers can effortlessly explore posts, categories, and comments. The page ensures a visually appealing and user-friendly experience for both casual readers and dedicated followers"
